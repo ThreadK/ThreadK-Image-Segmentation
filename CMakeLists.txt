@@ -1,1 +1,1 @@
-PROJECT(GraphSegmentation
+PROJECT(GraphSegmentation)
