@@ -1,2 +1,2 @@
 PROJECT(GraphSegmentation)
-cmake
+cmake_m
