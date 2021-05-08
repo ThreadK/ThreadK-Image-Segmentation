@@ -1,2 +1,2 @@
 PROJECT(GraphSegmentation)
-cmake_minimum_requ
+cmake_minimum_requir
