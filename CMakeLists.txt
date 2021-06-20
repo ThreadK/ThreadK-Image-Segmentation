@@ -1,4 +1,4 @@
 PROJECT(GraphSegmentation)
 cmake_minimum_required(VERSION 2.6)
 
-#for templates you need to add additional 
+#for templates you need to add additional f
