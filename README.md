@@ -1,1 +1,1 @@
-# Application of Graph Segmenta
+# Application of Graph Segmentatio
