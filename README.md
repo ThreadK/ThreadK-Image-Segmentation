@@ -1,1 +1,1 @@
-# Application of Graph Segmentation Al
+# Application of Graph Segmentation Alg
