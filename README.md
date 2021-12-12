@@ -1,1 +1,1 @@
-# Application of Graph Segmentation Algorith
+# Application of Graph Segmentation Algorithm
