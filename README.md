@@ -1,1 +1,1 @@
-# Application of Graph Segmentation Algorithm for Image
+# Application of Graph Segmentation Algorithm for Image S
