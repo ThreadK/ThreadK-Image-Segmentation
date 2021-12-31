@@ -1,3 +1,3 @@
 # Application of Graph Segmentation Algorithm for Image Segmentation
 
-This algorithm for gra
+This algorithm for graph
