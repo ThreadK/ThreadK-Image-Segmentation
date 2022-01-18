@@ -1,3 +1,3 @@
 # Application of Graph Segmentation Algorithm for Image Segmentation
 
-This algorithm for graph-segmentation was originally developed by Pedro F. Felzens
+This algorithm for graph-segmentation was originally developed by Pedro F. Felzenszwa
