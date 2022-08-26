@@ -4,4 +4,4 @@ This algorithm for graph-segmentation was originally developed by Pedro F. Felze
 
 Refer to the research work 'Efficient Graph-Based Image Segmentation' by Pedro F. Felzenszwalb and Daniel P. Huttenlocher, published in the International Journal of Computer Vision, Volume 59, Number 2, September 2004. Link: http://cs.brown.edu/~pff/segment/
 
-Modified for this version by Th
+Modified for this version by Thre
