@@ -6,4 +6,4 @@ Refer to the research work 'Efficient Graph-Based Image Segmentation' by Pedro F
 
 Modified for this version by ThreadK.
 
-This code is adapted to make the algorithm compatible with differe
+This code is adapted to make the algorithm compatible with different
