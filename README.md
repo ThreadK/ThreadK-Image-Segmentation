@@ -8,4 +8,4 @@ Modified for this version by ThreadK.
 
 This code is adapted to make the algorithm compatible with different image formats and flexible for use with popular libraries like OpenCV. It can now be easily integrated with the Robot Operating System (ROS).
 
-To run this software, ensure the following
+To run this software, ensure the following de
