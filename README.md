@@ -10,4 +10,5 @@ This code is adapted to make the algorithm compatible with different image forma
 
 To run this software, ensure the following dependencies are installed:
 
-- OpenC
+- OpenCV
+-
