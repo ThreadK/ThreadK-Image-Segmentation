@@ -12,3 +12,5 @@ To run this software, ensure the following dependencies are installed:
 
 - OpenCV
 - cmake
+
+C
