@@ -15,4 +15,4 @@ To run this software, ensure the following dependencies are installed:
 
 Compilation Instructions:
 
-a. Navigate to the GraphS
+a. Navigate to the GraphSegm
