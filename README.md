@@ -16,4 +16,4 @@ To run this software, ensure the following dependencies are installed:
 Compilation Instructions:
 
 a. Navigate to the GraphSegmentation directory
-b. Create a new directo
+b. Create a new directory
