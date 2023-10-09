@@ -17,3 +17,4 @@ Compilation Instructions:
 
 a. Navigate to the GraphSegmentation directory
 b. Create a new directory named 'build'
+c.
