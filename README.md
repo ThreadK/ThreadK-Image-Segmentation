@@ -20,4 +20,4 @@ b. Create a new directory named 'build'
 c. Run the cmake command
 d. Compile using the make command
 
-The compiled binary w
+The compiled binary will b
