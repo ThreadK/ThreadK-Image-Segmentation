@@ -20,4 +20,4 @@ b. Create a new directory named 'build'
 c. Run the cmake command
 d. Compile using the make command
 
-The compiled binary will be in the build/apps directory. An example image has been provided in the
+The compiled binary will be in the build/apps directory. An example image has been provided in the 
