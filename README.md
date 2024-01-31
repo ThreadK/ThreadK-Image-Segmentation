@@ -23,4 +23,4 @@ d. Compile using the make command
 The compiled binary will be in the build/apps directory. An example image has been provided in the img directory for quick testing.
 
 Execution command:
-a) ./graph_segmentation ../../img
+a) ./graph_segmentation ../../img/
