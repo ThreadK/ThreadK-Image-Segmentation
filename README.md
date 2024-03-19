@@ -25,4 +25,4 @@ The compiled binary will be in the build/apps directory. An example image has be
 Execution command:
 a) ./graph_segmentation ../../img/339.jpg
 
-   ./(name_of_binary) (
+   ./(name_of_binary) (pat
